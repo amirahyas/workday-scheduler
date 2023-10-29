@@ -12,3 +12,6 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+screenshot: ![Screenshot (7)](https://github.com/amirahyas/workday-scheduler/assets/143109513/d57c8d55-204c-49cd-ab62-a88ac05770de)
+live site:https://amirahyas.github.io/workday-scheduler/
